@@ -35,3 +35,14 @@ Description: This is the Home page of Heart diseases prediction using Web applic
 ![Screenshot (16)](https://user-images.githubusercontent.com/73517820/107873742-aa0f7e00-6eda-11eb-8d88-772e3b598aed.png)
 Fig 5.2: Register page of heart diseases
  Description: when we have to register to give all the details of credentials with the personal information to maintain the information
+
+![Screenshot (18)](https://user-images.githubusercontent.com/73517820/107873790-2a35e380-6edb-11eb-89f6-4a2565571972.png)
+Fig 5.3: Login Page 
+Description: We have to login with the username or mail and along with the password then the credential is successful then we can see the information about this condition
+
+![Screenshot (19)](https://user-images.githubusercontent.com/73517820/107873796-391c9600-6edb-11eb-8b29-97bf22c40da2.png)
+Fig 5.4: Patient Details
+
+![Screenshot (20)](https://user-images.githubusercontent.com/73517820/107873837-81d44f00-6edb-11eb-8852-e27f4992ae0b.png)
+Fig 5.5: Patient Details
+Description: IN this form the doctors can fill the patient details about the present condition weather they have some kind of diseases or there not 
