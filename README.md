@@ -60,3 +60,10 @@ Description: tells that we have collected the number of datasets according to th
 Fig 5.8: Dashboard of Heart failure Prediction
 
 Description: It includes all the Positive cases they are suffering from heart diseases and also counts it also recorded and active cases are there how many still in active and also it shows the heart failure graph of the people who are suffering
+
+CONCLUSION AND FUTURE WORK
+.
+As we have been through number of projects and their papers and found different algorithms had different accuracy starting from ML algorithms to deep learning algorithms accuracy kept on increasing but we were not able to obtain good results for silent heart attack prediction. Hence after analysis we thought of using algorithm to make the system more accurate and efficient to predict the silent heart disease and inform the user at the earliest possible. This system has increased the heart disease prediction accuracy to 92% and has proved to be an excellent source in predicting silent heart disease.
+
+Decision  Tree  model  was  also integrated  in the  web  through an  API  called  Flask, and  it predicted  good  results  when  tested  5  times  on  the  web without an error. This research can be extended to a real-time system using Deep Learning approach, where users can upload their test results as image.
+
