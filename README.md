@@ -45,4 +45,5 @@ Fig 5.4: Patient Details
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/73517820/107873837-81d44f00-6edb-11eb-8852-e27f4992ae0b.png)
 Fig 5.5: Patient Details
+
 Description: IN this form the doctors can fill the patient details about the present condition weather they have some kind of diseases or there not 
