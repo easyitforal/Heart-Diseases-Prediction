@@ -25,3 +25,7 @@ The present system has certain major disadvantages. A few to be listed below.
 Proposed System
 
 The proposed system project sets itself apart by harnessing the powers of both Deep learning and data mining. The paper proposes a system, with a strong prediction algorithm, which implements powerful classification steps with a comprehensive report generation module. The project aims to implement a selflearning protocol such that the past inputs of the disease outcomes determine the future possibilities of the heart disease to a particular user. The proposed model makes use of strong preprocessing tools so that the classification and prediction do not show any errors relating to the dataset. A huge no. of training sets will be used to make the prediction more and more accurate. 
+
+SCREENSHOTS
+
+![Screenshot (15)](https://user-images.githubusercontent.com/73517820/107873532-45075880-6ed9-11eb-8d83-721f113a36a5.png)
