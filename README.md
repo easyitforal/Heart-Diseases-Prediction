@@ -29,3 +29,9 @@ The proposed system project sets itself apart by harnessing the powers of both D
 SCREENSHOTS
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/73517820/107873532-45075880-6ed9-11eb-8d83-721f113a36a5.png)
+Fig 5.1: Heart Diseases Prediction Home Page
+Description: This is the Home page of Heart diseases prediction using Web application
+
+![Screenshot (16)](https://user-images.githubusercontent.com/73517820/107873742-aa0f7e00-6eda-11eb-8d88-772e3b598aed.png)
+Fig 5.2: Register page of heart diseases
+ Description: when we have to register to give all the details of credentials with the personal information to maintain the information
