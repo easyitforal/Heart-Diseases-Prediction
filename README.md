@@ -47,3 +47,16 @@ Fig 5.4: Patient Details
 Fig 5.5: Patient Details
 
 Description: IN this form the doctors can fill the patient details about the present condition weather they have some kind of diseases or there not 
+
+![Screenshot (21)](https://user-images.githubusercontent.com/73517820/107873953-2ce50880-6edc-11eb-9a7e-3f07fe38554d.png)
+Fig 5.6: Dataset
+
+![Screenshot (22)](https://user-images.githubusercontent.com/73517820/107873966-4b4b0400-6edc-11eb-85da-f39a7c2c70ff.png)
+Fig 5.7: Dataset
+
+Description: tells that we have collected the number of datasets according to the Heart diseases Prediction
+
+![Screenshot (24)](https://user-images.githubusercontent.com/73517820/107873980-67e73c00-6edc-11eb-8e6a-2f8257671975.png)
+Fig 5.8: Dashboard of Heart failure Prediction
+
+Description: It includes all the Positive cases they are suffering from heart diseases and also counts it also recorded and active cases are there how many still in active and also it shows the heart failure graph of the people who are suffering
